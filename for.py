@@ -1,4 +1,4 @@
-#mylist = ['ji','ju','jo']
+mylist = ['ji','ju','jo']
 mydict = {
 	'nama'   : 'Amigo',
 	'negara' : 'Indonesia',
@@ -6,5 +6,10 @@ mydict = {
 	'hobi'   : 'Badminton'
 }
 
-for letter in mydict :
+# for letter in mylist :
+# 	if letter == 'ju':
+# 		break
+# 	print(letter)
+
+for letter in mydict:
 	print(letter)
