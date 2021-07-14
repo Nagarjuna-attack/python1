@@ -7,7 +7,6 @@ my_list = [
 	[7,8,9]
 ]
 # print(my_list[0][1])
-
 for lists in my_list:
 	for baris in lists:
 		print(baris)
