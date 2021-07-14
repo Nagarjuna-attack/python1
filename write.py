@@ -1,2 +1,2 @@
-sebuah = open('sebuah.txt','a')
-sebuah.write('\nbaris ketiga')
+sebuah = open('baru.py','w')
+sebuah.write("print('ini adalah file python baru')")
